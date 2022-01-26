@@ -1,7 +1,7 @@
 {
-  "name": "YUKKI SPAM USERBOT",
+  "name": "RICKKY-SPAM BOT ",
   "description": "A Powerful Telegram Spam Userbot.",
-  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
+  "logo": "https://telegra.ph/file/68f77359a361634eaca47.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -60,6 +60,16 @@
       },
       "STRING10": {
         "description": "Telethon String Session",
+        "value": "",
+        "required": false
+      },
+      "USERNAME": {
+        "description": "YOUR USERNAME WITHOUT @ ",
+        "value": "",
+        "required": false 
+      },
+      "ALIVE_NAME": {
+        "description": "YOUR ALIVE NAME ",
         "value": "",
         "required": false
       },
